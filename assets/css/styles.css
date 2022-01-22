@@ -448,3 +448,9 @@ img{
     right: 10%;
   }
 }
+
+.raj-contact{
+  align-items: center;
+  text-align: center;
+  background-color: #4070F4;
+}
